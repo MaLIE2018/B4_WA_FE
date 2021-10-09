@@ -1,0 +1,258 @@
+{
+  "profile": {
+    "avatar": "https://source.unsplash.com/random",
+    "firstName": "Jane",
+    "lastName": "Greg Buckridge",
+    "email": "Breanna_Beer@yahoo.com"
+  },
+  "online": false,
+  "friends": [
+    {
+      "profile": {
+        "avatar": "https://source.unsplash.com/random",
+        "firstName": "Izaiah",
+        "lastName": "Daisy Beier Sr.",
+        "email": "Laurel_Schumm@yahoo.com"
+      },
+      "_id": "60f70a93ff74c77e681932fb"
+    },
+    {
+      "profile": {
+        "avatar": "https://source.unsplash.com/random",
+        "firstName": "Jane",
+        "lastName": "Greg Buckridge",
+        "email": "Breanna_Beer@yahoo.com"
+      },
+      "_id": "60f70a82ff74c77e681932f9"
+    }
+  ],
+  "_id": "60f70a82ff74c77e681932f9",
+  "chats": [
+    {
+      "hidden": false,
+      "chat": {
+        "participants": [
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Jane",
+              "lastName": "Greg Buckridge",
+              "email": "Breanna_Beer@yahoo.com"
+            },
+            "_id": "60f70a82ff74c77e681932f9"
+          },
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Jane",
+              "lastName": "Greg Buckridge",
+              "email": "Breanna_Beer@yahoo.com"
+            },
+            "_id": "60f70a82ff74c77e681932f9"
+          },
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Jakayla",
+              "lastName": "Melinda Keebler",
+              "email": "Keenan_Klocko2@hotmail.com"
+            },
+            "_id": "60f7ce8d7c123c54d09755ca"
+          }
+        ],
+        "latestMessage": {
+          "hidden": [],
+          "content": [],
+          "_id": "60f7d0cff245ef19bc037fdd",
+          "userId": "60f7ce8d7c123c54d09755ca",
+          "text": "Hello there",
+          "chatId": "60f710c1dca36072a4a7f6dc",
+          "createdAt": "2021-07-21T07:46:23.268Z",
+          "updatedAt": "2021-07-21T07:46:23.268Z",
+          "__v": 0
+        },
+        "_id": "60f710c1dca36072a4a7f6dc",
+        "__v": 0
+      }
+    },
+    {
+      "hidden": false,
+      "chat": {
+        "participants": [
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Jane",
+              "lastName": "Greg Buckridge",
+              "email": "Breanna_Beer@yahoo.com"
+            },
+            "_id": "60f70a82ff74c77e681932f9"
+          },
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Jane",
+              "lastName": "Greg Buckridge",
+              "email": "Breanna_Beer@yahoo.com"
+            },
+            "_id": "60f70a82ff74c77e681932f9"
+          },
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Jakayla",
+              "lastName": "Melinda Keebler",
+              "email": "Keenan_Klocko2@hotmail.com"
+            },
+            "_id": "60f7ce8d7c123c54d09755ca"
+          }
+        ],
+        "latestMessage": {
+          "hidden": [],
+          "content": [],
+          "_id": "60f7d0cff245ef19bc037fdd",
+          "userId": "60f7ce8d7c123c54d09755ca",
+          "text": "Hello there",
+          "chatId": "60f710c1dca36072a4a7f6dc",
+          "createdAt": "2021-07-21T07:46:23.268Z",
+          "updatedAt": "2021-07-21T07:46:23.268Z",
+          "__v": 0
+        },
+        "_id": "60f710c1dca36072a4a7f6dc",
+        "__v": 0
+      }
+    },
+    {
+      "hidden": false,
+      "chat": {
+        "participants": [
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Jane",
+              "lastName": "Greg Buckridge",
+              "email": "Breanna_Beer@yahoo.com"
+            },
+            "_id": "60f70a82ff74c77e681932f9"
+          },
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Izaiah",
+              "lastName": "Daisy Beier Sr.",
+              "email": "Laurel_Schumm@yahoo.com"
+            },
+            "_id": "60f70a93ff74c77e681932fb"
+          },
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Jakayla",
+              "lastName": "Melinda Keebler",
+              "email": "Keenan_Klocko2@hotmail.com"
+            },
+            "_id": "60f7ce8d7c123c54d09755ca"
+          }
+        ],
+        "latestMessage": "",
+        "_id": "60f710eadca36072a4a7f6e9",
+        "__v": 0
+      }
+    },
+    {
+      "hidden": false,
+      "chat": {
+        "participants": [
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Jane",
+              "lastName": "Greg Buckridge",
+              "email": "Breanna_Beer@yahoo.com"
+            },
+            "_id": "60f70a82ff74c77e681932f9"
+          },
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Izaiah",
+              "lastName": "Daisy Beier Sr.",
+              "email": "Laurel_Schumm@yahoo.com"
+            },
+            "_id": "60f70a93ff74c77e681932fb"
+          },
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Jakayla",
+              "lastName": "Melinda Keebler",
+              "email": "Keenan_Klocko2@hotmail.com"
+            },
+            "_id": "60f7ce8d7c123c54d09755ca"
+          }
+        ],
+        "latestMessage": "",
+        "_id": "60f710eadca36072a4a7f6e9",
+        "__v": 0
+      }
+    },
+    {
+      "hidden": false,
+      "chat": {
+        "participants": [
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Lonny",
+              "lastName": "Victor Haley DVM",
+              "email": "Alberto_Dare@yahoo.com"
+            },
+            "_id": "60f70e465c513f3970e3dcd4"
+          },
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Jane",
+              "lastName": "Greg Buckridge",
+              "email": "Breanna_Beer@yahoo.com"
+            },
+            "_id": "60f70a82ff74c77e681932f9"
+          }
+        ],
+        "latestMessage": "",
+        "_id": "60f71135dca36072a4a7f6f1",
+        "__v": 0
+      }
+    },
+    {
+      "hidden": false,
+      "chat": {
+        "participants": [
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Izaiah",
+              "lastName": "Daisy Beier Sr.",
+              "email": "Laurel_Schumm@yahoo.com"
+            },
+            "_id": "60f70a93ff74c77e681932fb"
+          },
+          {
+            "profile": {
+              "avatar": "https://source.unsplash.com/random",
+              "firstName": "Jane",
+              "lastName": "Greg Buckridge",
+              "email": "Breanna_Beer@yahoo.com"
+            },
+            "_id": "60f70a82ff74c77e681932f9"
+          }
+        ],
+        "latestMessage": "",
+        "_id": "60f711b562ba292e10dbd7da",
+        "__v": 0
+      }
+    }
+  ],
+  "createdAt": "2021-07-20T17:40:18.419Z",
+  "updatedAt": "2021-07-21T08:32:25.523Z"
+}

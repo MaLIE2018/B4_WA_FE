@@ -1,0 +1,117 @@
+.profile-left-nav {
+  background-color: #ededed;
+  height: calc(100vh - 4rem);
+  width: 0%;
+  position: absolute;
+  top: 0px;
+  z-index: 1050;
+  /* bottom: -15px; */
+  overflow: hidden;
+  transition: 0.2s linear;
+}
+.navigation-profile {
+  height: 100px;
+  background-color: #b7ceca;
+  padding-top: 60px;
+}
+.narrow-header {
+  margin-left: 30px;
+  font-size: 20px;
+  font-weight: 1200;
+  stroke: black;
+  cursor: pointer;
+}
+.navigation-header {
+  padding-top: 130px !important;
+  padding-left: 10px;
+  font-weight: 600;
+}
+
+.profile-avatar {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.profile-avatar-wrapper {
+  margin-bottom: 20px;
+}
+.profile-div-text {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: auto;
+  text-align: center;
+  font-weight: 600;
+}
+.profile-details-wrapper {
+  height: 100px;
+  background-color: #ffffff;
+}
+.name-descr {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  color: #1ebea5;
+  font-size: 15px;
+  font-weight: 500;
+}
+.profile-name-edit {
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.muted-text {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: 300;
+  color: rgb(109, 105, 105);
+  font-size: 14px;
+}
+.profile-about-wrapper {
+  margin-top: 40px;
+  height: 100px;
+  background-color: #ffffff;
+}
+.edit-icon-wrapper {
+  float: right;
+  margin-right: 30px;
+  cursor: pointer;
+}
+.shadow-avatar {
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  box-shadow: 5px 5px 15px 5px #000000;
+}
+.logout-button {
+  background-color: rgb(30, 190, 165);
+  color: white;
+  border-radius: 5px;
+  border: none;
+  transition: 0.2s linear;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+}
+/* .logout-button:hover {
+  box-shadow: 0 17px 50px 0 rgb(0 0 0 / 19%), 0 12px 15px 0 rgb(0 0 0 / 24%);
+  font-weight: 600;
+  font-size: 1.1rem;
+  padding: 0.5rem 1.2rem 0.5rem 1.2rem;
+} */
+@media (max-width: 575px) {
+  .profile-left-nav {
+    background-color: #ededed;
+    height: 98vh;
+
+    position: absolute;
+    top: 0px;
+    z-index: 1;
+    /* bottom: -15px; */
+    overflow: hidden;
+
+    transition: 0.2s linear;
+  }
+}

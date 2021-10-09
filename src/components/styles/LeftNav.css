@@ -1,0 +1,191 @@
+.profile-part-main {
+  background-color: #ededed;
+  padding-bottom: 20px;
+  display: block;
+  border-right: 1px solid rgb(222, 206, 206);
+}
+.profile-user-header {
+  padding-left: 10px;
+  font-weight: 600;
+}
+.avatar-img-style {
+  border-radius: 50%;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.icons-span {
+  padding-top: 15px;
+  float: right;
+}
+
+.icons-wrapper {
+  margin-right: 15px;
+}
+.icons-profile-style {
+  font-size: 25px;
+  cursor: pointer;
+}
+.searching-div {
+  padding-left: 25px;
+  padding-bottom: 10px;
+  background-color: #f6f6f6;
+  padding-right: 0px;
+  --bs-gutter-x: 0 !important;
+  border-bottom: 1px solid #ced4da;
+}
+.navbar-searching-style {
+  display: inline !important;
+  width: 80% !important;
+  border-left-style: none !important;
+  border-right-style: none !important;
+  border-top-style: none !important;
+  border-bottom-style: none !important;
+  border-top-right-radius: 15px !important;
+  border-bottom-right-radius: 15px !important;
+  border-top-left-radius: 0px !important;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 0px !important;
+  background-color: white !important;
+  padding-left: 20px !important;
+
+  margin-top: 10px !important;
+}
+.navbar-searching-style:focus {
+  color: black;
+  border: 1px solid #ced4da;
+  border-left-style: none;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.magnify-glass-navbar {
+  position: relative;
+  top: -4px;
+  right: -5px;
+  border: 1px solid #ced4da;
+  border-top-style: none;
+  border-left-style: none;
+  border-bottom-style: none;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  font-size: 36px;
+  border-right-style: none;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-top: 6px;
+
+  margin-top: 4px;
+  background-color: white;
+}
+
+.main-chat-view {
+  height: 90vh;
+
+  background-image: url(https://theabbie.github.io/blog/assets/official-whatsapp-background-image.jpg);
+}
+.chat-header {
+  background-color: #ededed;
+  padding-bottom: 21px;
+}
+.chat-list-item {
+  border-bottom: 1px solid rgb(233, 233, 233);
+  border-right: 1px solid rgb(189, 186, 186);
+  cursor: pointer;
+  background-color: #ffffff;
+  padding-right: 10px;
+}
+.chat-list-item:hover {
+  background-color: #ebebeb !important;
+}
+.chat-list-selected-item {
+  border-bottom: 1px solid rgb(233, 233, 233);
+  border-right: 1px solid rgb(189, 186, 186);
+  cursor: pointer;
+  background-color: #e4e2e2;
+  padding-right: 10px;
+}
+/* .chat-list-selected-item:hover {
+  background-color: #ffffff !important;
+} */
+.chat-list-selected {
+  background-color: rgb(221, 219, 219);
+}
+.avatar-chat {
+  height: 50px;
+  border-radius: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+.chat-item-contact {
+  margin-top: 10px;
+  padding-left: 15px;
+  font-weight: 600;
+}
+.chat-item-message {
+  padding-left: 15px;
+  font-weight: 300;
+}
+.chat-item-time {
+  padding-top: 10px;
+  font-size: 12px;
+}
+.list-avatar-wrapper {
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float: left;
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+}
+@media (max-width: 575px) {
+  .chat-list-item {
+    /* border-bottom: 1px solid rgb(233, 233, 233);
+    border-right: 1px solid rgb(189, 186, 186);
+    cursor: pointer;
+    background-color: #ffffff;
+    padding-right: 10px;
+    display: flex;
+    max-height: 100px; */
+    display: none;
+  }
+}
+/* .chat-item-contact {
+    position: relative;
+    bottom: 60px;
+    left: 70px;
+    font-weight: 600;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .list-avatar-wrapper {
+    display: inline;
+
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+  }
+  .chat-item-messaage {
+    font-weight: 300;
+    position: relative;
+    bottom: 60px;
+    left: 70px;
+  }
+  .chat-item-time {
+    font-size: 12px;
+    float: right;
+  } */
+
+chatRow:hover {
+  background-color: grey;
+}
+.no-message-chat-item {
+  font-style: italic;
+  font-size: 15px;
+  font-weight: 400;
+  color: rgb(116, 111, 111);
+}

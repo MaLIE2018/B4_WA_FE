@@ -1,0 +1,75 @@
+.friend-right-nav {
+  background-color: #ededed;
+  height: calc(100vh - 4rem);
+  width: 0%;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  /* bottom: -15px; */
+  overflow: hidden;
+  z-index: 1050;
+  transition: 0.2s linear;
+}
+.navigation-profile-friend {
+  height: 100px;
+  background-color: #b7ceca;
+  padding-top: 60px;
+}
+.narrow-header-friend {
+  margin-left: 30px;
+  font-size: 20px;
+  font-weight: 1200;
+  stroke: black;
+  cursor: pointer;
+}
+.navigation-header-friend {
+  padding-left: 40px;
+  font-weight: 600;
+}
+.profile-div-text-friend {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin: auto;
+  text-align: center;
+  font-weight: 600;
+}
+.profile-avatar-wrapper-friend {
+  margin-bottom: 10px;
+}
+.profile-avatar-friend {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.profile-details-wrapper-friend {
+  height: 100px;
+  margin-bottom: 10px;
+  background-color: #ffffff;
+}
+.muted-text-friend {
+  padding-right: 20px;
+  font-weight: 300;
+  color: rgb(109, 105, 105);
+  font-size: 14px;
+  font-style: italic;
+}
+.name-descr-friend {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  color: #1ebea5;
+  font-size: 15px;
+  font-weight: 500;
+}
+.profile-name-edit-friend {
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.profile-details-wrapper-friend {
+  height: 60px;
+  background-color: #ffffff;
+}

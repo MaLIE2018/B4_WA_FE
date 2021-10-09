@@ -1,0 +1,113 @@
+.contacts-left-nav {
+  background-color: #ededed;
+  height: calc(100vh-4rem);
+  width: 0%;
+  position: absolute;
+  top: 0px;
+  z-index: 1;
+  /* bottom: -15px; */
+  overflow-y: auto;
+  transition: 0.2s linear;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+  background: transparent; /* Optional: just make scrollbar invisible */
+}
+.avatar-profile {
+  height: 80px;
+  border-radius: 40px;
+}
+.navigation-new-chat {
+  height: 100px;
+  background-color: #b7ceca;
+  padding-top: 60px;
+}
+.navigation-header {
+  padding-top: 130px !important;
+  padding-left: 10px;
+  font-weight: 600;
+}
+.narrow-header {
+  margin-left: 30px;
+  font-size: 20px;
+  font-weight: 1200;
+  stroke: black;
+  cursor: pointer;
+}
+.group-icon {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+
+  border-radius: 100%;
+  background-color: #7ac2b6;
+}
+
+.addGroupButton span[disabled] {
+  background-color: #eff0f1;
+}
+.addGroupButton :hover {
+  cursor: pointer;
+}
+.group-icon-style {
+  font-size: 26px;
+}
+.icon-wrapper {
+  margin-top: 30px;
+  margin-left: 35px;
+}
+.new-group-div {
+  padding-top: 20px;
+}
+
+.new-group-text {
+  margin-top: 20px;
+  margin-left: 40px;
+  padding-right: 160px;
+  padding-bottom: 10px;
+
+  border-bottom: 1px solid black;
+}
+.text-wrapper {
+  padding-top: 10px;
+  padding-left: 0px;
+}
+.contacts-div-text {
+  padding-top: 30px;
+  padding-left: 120px;
+  padding-bottom: 30px;
+  font-weight: 600;
+}
+.avatar-wrapper {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+.avatar-img {
+  height: 50px;
+  width: 50px;
+  border-radius: 35px;
+}
+.text-wrapper-list {
+  padding-top: 10px;
+}
+.contacts-name-text {
+  margin-top: 20px;
+  margin-left: 40px;
+  padding-right: 160px;
+  padding-bottom: 10px;
+}
+.add-to-group {
+  font-size: 24px;
+  fill: rgb(21, 44, 9);
+}
+
+.add-to-group :hover {
+  cursor: pointer;
+}
+
+.checkbox-style {
+  float: right;
+}
