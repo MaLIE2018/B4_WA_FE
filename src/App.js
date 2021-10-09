@@ -42,9 +42,7 @@ function App() {
         setChatPartner({});
         setAllUsers([]);
         setLoggedIn(false);
-      } else {
-        setLoggedIn(true);
-      }
+      } 
     }
   };
 
